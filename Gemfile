@@ -14,6 +14,7 @@ gem 'coffee-rails'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
+gem 'tacit', '~> 1.0'
 
 group :development, :test do
   gem 'sqlite3'
